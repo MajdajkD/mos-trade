@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mosaic TraderApp</title>
+  <base href="mos-trade" />
+  <link href="css/app.css" rel="stylesheet" />
+  <link href="css/mosaic.bootstrap.css" rel="stylesheet" />
+  <!-- If you add any scoped CSS files, uncomment the following to load them
+  <link href="MOS.TraderApp.styles.css" rel="stylesheet" /> -->
+</head>
+
+<body>
+  <div id="app" class="min-vh-100">
+    <svg class="loading-progress">
+      <circle r="40%" cx="50%" cy="50%" />
+      <circle r="40%" cx="50%" cy="50%" />
+    </svg>
+    <div class="loading-progress-text"></div>
+  </div>
+
+  <div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+  </div>
+  <script src="bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/web3@1.8.1/dist/web3.min.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/@walletconnect/web3-provider@1.8.0/dist/umd/index.min.js"></script>
+  <script src="interop/web3modal/web3modal.js"></script>
+  <script src="interop/web3modal/web3interop.bundle.js"></script>
+  <script src="interop/theme/theme.js"></script>
+  <script src="interop/tooltip/tooltip.js"></script>
+  <script src="_framework/blazor.webassembly.js"></script>
+</body>
+
+</html>
