@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MOS.TraderApp",
   "resources": {
-    "hash": "sha256-dnwxkuN5qcp6AWO3xSvwinhdvWXm8IQ3MBanvBy6Ywg=",
+    "hash": "sha256-NiMonQ6G2E+xoc3UG4mJLY+Yk6voTs2z2FzTkt4utsk=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.o940blkh7b.js": "sha256-rieIHyojFLub2N8ceaoNvtHUO7QQaGV4IxoOAwpxRoE="
     },
@@ -34,7 +34,8 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-Ms2HR5Gpug/0uRAzdk4SUNT76Ml3CjFv9Jo+dUIMGac=",
       "Microsoft.JSInterop.wasm": "sha256-46ISrKZtHoqFTL4haLcjkvz5lrkP1CmIPYY73Bc8nIY=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-CQVLCKiSxLN5ghyJZG3mhnMGRROdqrbNUjtAXB0nWb8=",
-      "MOS.TraderApp.wasm": "sha256-yy2EKvnB1X92hCyb02ZrCWPP5vtADCjmMvoGvZBupnk=",
+      "MOS.TraderApp.Common.wasm": "sha256-wFKQBxfyBPN6fM+UxlgiiqaPCgeTZxvD6bZkDKuUvQs=",
+      "MOS.TraderApp.wasm": "sha256-LclF+mUp9xDWO33fXPR9GRbjfwyveABmmxAPSp2kp7o=",
       "Nethereum.ABI.wasm": "sha256-h93yvl8ycH3ozQYZj+ByhIb5Qp/zDNC5KBGJingbsiI=",
       "Nethereum.BlockchainProcessing.wasm": "sha256-9yiIxcccgynIbES0jEwXg3SEwOnms+2oy0fXvxq50jg=",
       "Nethereum.Contracts.wasm": "sha256-ky4o2kh6j3ozAOhy0Ep5308bvv/1vs5KWhBGdahzRPU=",
@@ -52,7 +53,7 @@
       "System.Collections.NonGeneric.wasm": "sha256-LISYR3w9vyqj8c5VaNG1EQI9bhVU6uwxfjkquwkMIKU=",
       "System.Collections.Specialized.wasm": "sha256-ia6dA+3DEV2PNarHJRV55GouU9a6YrsdIARobQq8JKU=",
       "System.Collections.wasm": "sha256-G47ZWO77eJmdSxJQtW5ul2q9Irf5ga85M9ScJBYU57Q=",
-      "System.ComponentModel.Annotations.wasm": "sha256-uo7qzGIl6jFVKkVALiLwOocy+6Hl2f+7wAyG0h7DZ9k=",
+      "System.ComponentModel.Annotations.wasm": "sha256-U7Lf6fCu5utcwinDwgJ8reaVpPbdUGimKQ5t40XYAtE=",
       "System.ComponentModel.Primitives.wasm": "sha256-/ScotgWvJ1AVNPU5vchvdQFkxruLBTf0SBqXKnFhOh0=",
       "System.ComponentModel.TypeConverter.wasm": "sha256-lEcbzTaYi1DXV8YKv659khkyTOSgmSRwpqEx/x0fQ60=",
       "System.ComponentModel.wasm": "sha256-79IEORjcgmq1wwHxBwVGPSr2qK10qdn1FkiAVtux9pQ=",
