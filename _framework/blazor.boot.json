@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MOS.TraderApp",
   "resources": {
-    "hash": "sha256-H1jQFHoGuLDU0Yx5eJqbLjoLggMfuiIGmAuEGxia6QA=",
+    "hash": "sha256-rGcCtAPPoKrbls9QWpbT5tF8GmA2209RCLq1dfYYxoM=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.o940blkh7b.js": "sha256-MKCqRJd045XjWvP1u8qOXSMWyUS39wZyMmMjCJuWHAc="
     },
@@ -34,8 +34,8 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-Ms2HR5Gpug/0uRAzdk4SUNT76Ml3CjFv9Jo+dUIMGac=",
       "Microsoft.JSInterop.wasm": "sha256-MKknoRxUWb9wcnS2dxtVkxmbA39EU5I6HlNCVA9Obns=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-CQVLCKiSxLN5ghyJZG3mhnMGRROdqrbNUjtAXB0nWb8=",
-      "MOS.TraderApp.Common.wasm": "sha256-N2PSYYBd1C88sqzUyuyshEKxiCSb31lq1c+seD9BFDw=",
-      "MOS.TraderApp.wasm": "sha256-CwDgV5hmrdPEVP/YwtcrpI0W+byLjVZ6x0IWIKtFrlQ=",
+      "MOS.TraderApp.Common.wasm": "sha256-J+NgbNtXEGphmJSya/doQzKJ/8EC3QyD6e2Gmk9Q2BU=",
+      "MOS.TraderApp.wasm": "sha256-Hk3VMFBInVpLjfSR375ivi+AGPG7hXZ6Ka59xaT5mdc=",
       "Nethereum.ABI.wasm": "sha256-Zdcu48SpbXsjJDZxqaTaqcBEMb+DxGDXr+exqkYh5W8=",
       "Nethereum.BlockchainProcessing.wasm": "sha256-oO94gKkB8JGzUnM/BySZtLm/hlPow9yZMDSNiyF08pQ=",
       "Nethereum.Contracts.wasm": "sha256-T+/JInQtuo62+CzmmszgpAaEB/h4jHxEnLZ67MpysvU=",
@@ -102,7 +102,7 @@
       "System.Xml.Linq.wasm": "sha256-GWFwZbLHxhganNs3G9GJMiuMxZ+GJwv4j+F7g493lik=",
       "System.Xml.ReaderWriter.wasm": "sha256-g1Goo8IX6Jp0HdsCauXdtvjiwgQhLHaAeWWIO6vzXGc=",
       "System.Xml.XDocument.wasm": "sha256-QPoy5Zoqgsgoj+gZ5cLjOr+n0kLIGIGBwmJl9jHuZ/Y=",
-      "wcpoclib.wasm": "sha256-Ykk7AUt+sYh9f1vAsX21YWCed6r3kWIkX+DFxl8nsSM="
+      "wcpoclib.wasm": "sha256-uSf89im230avoLht9BM3mBpsxnjh76BCi7pzaleKBuY="
     }
   },
   "cacheBootResources": true,
